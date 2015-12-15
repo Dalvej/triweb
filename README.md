@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Scotch Box
 ==========
 
@@ -233,3 +234,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
  [15]: https://github.com/smdahlen/vagrant-hostmanager
  [16]: http://box.scotch.io
  [17]: http://scotch.io/bar-talk/introducing-scotch-box-a-vagrant-lamp-stack-that-just-works
+=======
+# triweb
+A CMS made for web agencys
+>>>>>>> f27f19c019c71b44c6050a70f2106d9467f93249
