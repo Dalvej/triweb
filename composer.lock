@@ -4,9 +4,59 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "5c6026b96e6fa11a641b51a6ba976f5e",
-    "content-hash": "5bd58fd976f1ee3e9611bc37c006ec46",
+    "hash": "9ab90d9c0ce7f1e713d7f554a84a6bcb",
+    "content-hash": "96a34e75d355298e73b1e1c3d8a15f88",
     "packages": [
+        {
+            "name": "caffeinated/themes",
+            "version": "v2.0.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/caffeinated/themes.git",
+                "reference": "c5b1c14d945c08af1aa143e1a7daf0341fcafa0a"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/caffeinated/themes/zipball/c5b1c14d945c08af1aa143e1a7daf0341fcafa0a",
+                "reference": "c5b1c14d945c08af1aa143e1a7daf0341fcafa0a",
+                "shasum": ""
+            },
+            "require": {
+                "illuminate/config": "5.1.*",
+                "illuminate/filesystem": "5.1.*",
+                "illuminate/support": "5.1.*",
+                "illuminate/view": "5.1.*",
+                "php": ">=5.5.9"
+            },
+            "suggest": {
+                "caffeinated/sapling": "Laravel 5 Twig integration package"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Caffeinated\\Themes\\": "src/Caffeinated/Themes/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Shea Lewis",
+                    "email": "shea.lewis89@gmail.com"
+                }
+            ],
+            "description": "Laravel 5 Themes",
+            "keywords": [
+                "blade",
+                "caffeinated",
+                "laravel",
+                "themes",
+                "twig"
+            ],
+            "time": "2015-07-06 18:02:00"
+        },
         {
             "name": "classpreloader/classpreloader",
             "version": "3.0.0",

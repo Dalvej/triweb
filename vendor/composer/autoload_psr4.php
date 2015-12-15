@@ -33,5 +33,6 @@ return array(
     'Doctrine\\Instantiator\\' => array($vendorDir . '/doctrine/instantiator/src/Doctrine/Instantiator'),
     'ClassPreloader\\' => array($vendorDir . '/classpreloader/classpreloader/src'),
     'Carbon\\' => array($vendorDir . '/nesbot/carbon/src/Carbon'),
+    'Caffeinated\\Themes\\' => array($vendorDir . '/caffeinated/themes/src/Caffeinated/Themes'),
     'App\\' => array($baseDir . '/app'),
 );
