@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Events;
+namespace Triweb\Events;
 
 abstract class Event
 {

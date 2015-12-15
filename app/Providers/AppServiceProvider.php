@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Providers;
+namespace Triweb\Providers;
 
 use Illuminate\Support\ServiceProvider;
 

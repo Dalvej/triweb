@@ -140,10 +140,10 @@ return [
         /*
          * Application Service Providers...
          */
-        App\Providers\AppServiceProvider::class,
-        App\Providers\AuthServiceProvider::class,
-        App\Providers\EventServiceProvider::class,
-        App\Providers\RouteServiceProvider::class,
+        Triweb\Providers\AppServiceProvider::class,
+        Triweb\Providers\AuthServiceProvider::class,
+        Triweb\Providers\EventServiceProvider::class,
+        Triweb\Providers\RouteServiceProvider::class,
 
         Caffeinated\Themes\ThemesServiceProvider::class,
 

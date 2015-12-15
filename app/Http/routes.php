@@ -11,4 +11,7 @@
 |
 */
 
-Route::get('/', 'UserViews@index');
+
+// Used for showing the guest the views
+Route::get('/', 'ThemeViews@index');
+Route::get('{slug}', 'ThemeViews@show');

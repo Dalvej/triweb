@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Jobs;
+namespace Triweb\Jobs;
 
 use Illuminate\Bus\Queueable;
 
